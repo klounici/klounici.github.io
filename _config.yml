@@ -18,21 +18,21 @@ highlighter: rouge
 
 #
 
-title : Joshua Agterberg
+title : Karim Lounici
 
 author :
 
-  name : Joshua Agterberg
+  name : Karim Lounici
 
-  email : jagterberg@jhu.edu
+  email : karim.lounici@polytechnique.edu
 
-  github : jagterberg
+  github : klounici
 
 
 
 # NOTE: If replacing this next line with your own URL, you likely want "https://" not "http://"
 
-production_url : https://jagterberg.github.io
+production_url : https://klounici.github.io
 
 
 
@@ -102,7 +102,7 @@ JB :
 
   # NOTE: If replacing this next line with your own URL, you likely want "https://" not "http://"
 
-  BASE_PATH : https://jagterberg.github.io
+  BASE_PATH : https://klounici.github.io
 
 
 
