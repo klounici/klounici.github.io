@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Teaching
+permalink: /teaching/
 ---
 
 <h4>Undergraduate Courses</h4>
