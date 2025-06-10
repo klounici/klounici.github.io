@@ -29,7 +29,7 @@ title: Teaching
   <li>Reading Course in High-Dimensional Statistics, Georgia Tech (Spring 2016, Role: Instructor)</li>
   <li>Mathematical Statistics I, Georgia Tech (2010–2014, Role: Lecturer)</li>
   <li>Multivariate Statistical Analysis (Math 6267), Georgia Tech (2011–2013, Role: Lecturer)</li>
-  <li><strong>Data Challenges</strong>: I organized several data challenges for the students of the Master DSB and M2 Data Sciences programs to apply statistical and AI techniques to real-world use cases in collaboration with banking and insurance institutions (2020–2024, Role: Coordinator).</li>
+  <li>Data Challenges. I organized several data challenges for the students of the Master DSB and M2 Data Sciences programs to apply statistical and AI techniques to real-world use cases in collaboration with banking and insurance institutions (2020–2025, Role: Coordinator).</li>
 </ul>
 
 
